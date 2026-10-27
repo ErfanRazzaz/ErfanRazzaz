@@ -55,9 +55,6 @@
 اولویت من همکاری در **توسعه فرانت‌اند** و سپس **ساخت وب‌اپلیکیشن‌های فول‌استک** است. برای پروژه‌های طراحی سایت و فرصت‌های تدریس هم آماده گفت‌وگو هستم.
 
 
-[لینکدین](https://www.linkedin.com/in/%D8%B9%D8%B1%D9%81%D8%A7%D9%86-%D8%B1%D8%B2%D8%A7%D8%B2-01b34b293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) · [تلگرام](https://t.me/Erfan_Razzaz) · [اینستاگرام](https://www.instagram.com/erfan.razzaz) · [وب‌سایت](https://razzazdev.ir)
-
-
 ### فعالیت متن‌باز و آمار
 
 علاقه‌مند به مشارکت در پروژه‌های متن‌باز مرتبط با وب و ابزارهای کاربردی هستم.
