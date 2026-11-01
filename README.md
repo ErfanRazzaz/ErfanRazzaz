@@ -1,67 +1,115 @@
-<p align="center"><img src="assets/header.svg" width="100%" alt="عرفان رزاز | توسعه‌دهنده فرانت‌اند و مدرس طراحی سایت" /></p>
+<p align="center"><img src="assets/hero.png" width="100%" alt="Erfan Razzaz — Frontend Developer, Web Design Instructor, 11 years in IT" /></p>
 
-<p align="center"><b>فارسی</b> · <a href="README.en.md">English</a></p>
-
-<div dir="rtl">
-
-## سلام، من عرفانم 👋
-
-**توسعه‌دهنده فرانت‌اند و مدرس طراحی سایت** با حدود **۱۱ سال تجربه در حوزه IT** در مجموعه **رایان تکنیک تهران**؛ از تعمیرات سخت‌افزار و نرم‌افزار کامپیوتر و لپ‌تاپ تا تجهیزات جانبی و شبکه.
-
-امروز تمرکزم روی طراحی و برنامه‌نویسی رابط‌های وب و توسعه وب‌اپلیکیشن‌هاست. در فرایند توسعه از ابزارهای هوش مصنوعی هم استفاده می‌کنم و در حال گسترش فعالیت‌هایم در توسعه فول‌استک هستم.
-
-**آماده همکاری برای موقعیت‌های فرانت‌اند، پروژه‌های طراحی سایت و توسعه وب‌اپلیکیشن.**
-
-### مسیر کاری من
-
-- **فرانت‌اند:** طراحی و پیاده‌سازی رابط کاربری وب.
-- **آموزش:** تدریس طراحی سایت و انتقال تجربه عملی.
-- **توسعه محصول:** ساخت وب‌اپلیکیشن با کمک ابزارهای هوش مصنوعی.
-- **پشتوانه فنی:** تجربه عملی سخت‌افزار، نرم‌افزار و شبکه در رایان تکنیک تهران.
-
-### پروژه‌های منتخب
-
-بخش عمده پروژه‌ها خصوصی‌اند؛ این بخش، کاربرد پروژه‌ها و نقش من را معرفی می‌کند.
-
-| پروژه | کاربرد | نقش من |
-| :--- | :--- | :--- |
-| **آوان** | پلتفرم دانشجویی؛ منتشرشده در کافه‌بازار | مشارکت در طراحی و برنامه‌نویسی |
-| **راهیشو** | لندینگ آموزشگاه رباتیک | طراحی سایت و برنامه‌نویسی |
-| **فست سواپ** | لندینگ خرید و فروش ارز دیجیتال | طراحی سایت و برنامه‌نویسی |
-| **انجمن علمی علوم پایه دانشگاه صنعتی سیرجان** | معرفی انجمن و ثبت‌نام دوره‌ها | طراحی سایت و برنامه‌نویسی |
-
-<!-- نوا مایند: پس از افزودن توضیح کاربرد و نقش دقیق، به جدول اضافه شود. نقش هر پروژه را پیش از انتشار بازبینی کنید. -->
-
-### مهارت‌ها و ابزارها
-
-**فناوری‌های وب**
-
-</div>
-
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&amp;theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, React" /></p>
+<p align="center"><b>فارسی</b> &nbsp; / &nbsp; <a href="README.en.md">English</a> &nbsp; · &nbsp; <a href="https://github.com/ErfanRazzaz?tab=repositories">Public repositories ↗</a></p>
 
 <div dir="rtl">
 
-**زبان‌هایی که با آن‌ها کار می‌کنم**
+## از تجربه فنی تا ساخت تجربه دیجیتال
+
+من **عرفان رزاز** هستم؛ توسعه‌دهنده فرانت‌اند و مدرس طراحی سایت، با **۱۱ سال تجربه در رایان تکنیک تهران** در حوزه سخت‌افزار، نرم‌افزار، لپ‌تاپ، تجهیزات جانبی و شبکه.
+
+امروز تمرکزم روی طراحی و برنامه‌نویسی رابط‌های وب است و با استفاده از ابزارهای هوش مصنوعی، مسیر توسعه وب‌اپلیکیشن‌های فول‌استک را هم دنبال می‌کنم.
+
+**آماده همکاری در موقعیت‌های فرانت‌اند و پروژه‌های طراحی و توسعه وب.**
 
 </div>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,c,cpp,cs&amp;theme=dark" alt="Python, C, C++, C#" /></p>
+<img src="assets/signal.gif" width="100%" alt="Decorative animated signal" />
 
 <div dir="rtl">
 
-### همکاری
+## ۰۱ / پروژه‌های منتخب
 
-اولویت من همکاری در **توسعه فرانت‌اند** و سپس **ساخت وب‌اپلیکیشن‌های فول‌استک** است. برای پروژه‌های طراحی سایت و فرصت‌های تدریس هم آماده گفت‌وگو هستم.
-
-
-### فعالیت متن‌باز و آمار
-
-علاقه‌مند به مشارکت در پروژه‌های متن‌باز مرتبط با وب و ابزارهای کاربردی هستم.
-آمار زیر فقط مخزن‌های عمومی را نشان می‌دهد و نماینده کل سابقه کاری یا پروژه‌های خصوصی من نیست.
+بیشتر پروژه‌ها خصوصی‌اند. تصویرهای زیر طراحی مفهومی‌اند؛ اسکرین‌شات محصول نیستند.
 
 </div>
 
-<p align="center"><img src="assets/activity.svg" width="100%" alt="Public GitHub activity and language distribution" /></p>
+<img src="assets/avan.png" width="100%" alt="AVAN — STUDENT PLATFORM" />
 
-<p align="center"><a href="https://github.com/ErfanRazzaz?tab=repositories">Explore public repositories ↗</a></p>
+<div dir="rtl">
+
+**آوان** — پلتفرم دانشجویی منتشرشده در کافه‌بازار. مشارکت در طراحی و برنامه‌نویسی.
+
+</div>
+
+<img src="assets/rahisho.png" width="100%" alt="RAHISHO — ROBOTICS ACADEMY" />
+
+<div dir="rtl">
+
+**راهیشو** — لندینگ آموزشگاه رباتیک. طراحی سایت و برنامه‌نویسی.
+
+</div>
+
+<img src="assets/fast-swap.png" width="100%" alt="FAST SWAP — CRYPTO LANDING PAGE" />
+
+<div dir="rtl">
+
+**فست سواپ** — لندینگ خرید و فروش ارز دیجیتال. طراحی سایت و برنامه‌نویسی.
+
+</div>
+
+<img src="assets/association.png" width="100%" alt="SCIENCE ASSOCIATION — UNIVERSITY WEBSITE" />
+
+<div dir="rtl">
+
+**انجمن علمی علوم پایه دانشگاه صنعتی سیرجان** — وبسایت معرفی انجمن و ثبت‌نام دوره‌ها. طراحی سایت و برنامه‌نویسی.
+
+</div>
+
+<!-- Nova Mind / نوا مایند: add after confirming project description and your role. -->
+
+<div dir="rtl">
+
+## ۰۲ / جعبه‌ابزار من
+
+</div>
+
+<img src="assets/toolbox.png" width="100%" alt="HTML, CSS, JavaScript, Tailwind CSS, React; Python, C, C++, C#; AI-assisted development" />
+
+<div dir="rtl">
+
+**وب:** HTML · CSS · JavaScript · Tailwind CSS · React  
+**سایر زبان‌ها:** Python · C · C++ · C#
+
+</div>
+
+<div dir="rtl">
+
+## ۰۳ / تجربه و مسیر حرفه‌ای
+
+- **۱۱ سال فعالیت در رایان تکنیک تهران:** تعمیرات سخت‌افزار و نرم‌افزار، تجهیزات جانبی و شبکه.
+- **تدریس طراحی سایت:** انتقال تجربه طراحی و ساخت وبسایت.
+- **تمرکز فعلی:** توسعه فرانت‌اند و سپس ساخت وب‌اپلیکیشن‌های فول‌استک.
+
+</div>
+
+<div dir="rtl">
+
+## ۰۴ / فعالیت عمومی و متن‌باز
+
+علاقه‌مند به مشارکت در پروژه‌های کاربردی وب و متن‌باز.
+
+</div>
+
+<details>
+<summary>مشاهده آمار عمومی گیت‌هاب / Public statistics</summary>
+
+<img src="assets/activity.svg" width="100%" alt="Public GitHub statistics; generated by the included GitHub Actions workflow" />
+
+Public repositories only. Private work is not represented.
+
+</details>
+
+<img src="assets/collaboration.png" width="100%" alt="Open to frontend roles, freelance websites and full-stack web application projects" />
+
+<div dir="rtl">
+
+**همکاری در فرانت‌اند · طراحی سایت · توسعه وب‌اپلیکیشن**
+
+</div>
+
+<!-- CONTACTS: Replace YOUR_HANDLE / YOUR_DOMAIN, then uncomment these links.
+[LinkedIn](https://www.linkedin.com/in/YOUR_HANDLE/) · [Telegram](https://t.me/YOUR_HANDLE) · [Instagram](https://www.instagram.com/YOUR_HANDLE/) · [Website](https://YOUR_DOMAIN)
+-->
+
+<p align="center"><sub>Erfan Razzaz · Design / Develop / Teach</sub></p>
